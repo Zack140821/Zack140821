@@ -4,7 +4,7 @@
 - 🌱 J'apprend actuellement JavaScript (y compris NodeJS) et le FullStack
 - 📫 Me contacter : Discord : Zack21_
 - 😄 Pronoms : Il/Lui
-- ⚡ Fun Facts : Le code est parfois comme une  pâte a crêpe : un soir rien ne fonctionne, le lendemain tout fonctionne (l'inverse existe)
+- ⚡ Fun Fact : Le code, c'est un peu comme une pâte à crêpe : un jour, tout semble raté, et le lendemain, comme par magie, tout fonctionne parfaitement ! (L'inverse est malheureusement vrai aussi 😅)
 
 <!---
 Bienvenue sur mon Profil
