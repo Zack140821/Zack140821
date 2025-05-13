@@ -6,6 +6,9 @@
 - 😄 Pronoms : Il/Lui
 - ⚡ Fun Facts : Le code est parfois comme une  pâte a crêpe : un soir rien ne fonctionne, le lendemain tout fonctionne (l'inverse existe)
 
+## 📊 Mes statistiques GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zack140821&show_icons=true&theme=radical)
+
 <!---
 Bienvenue sur mon Profil
 Welcome to my Profile
