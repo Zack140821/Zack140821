@@ -15,6 +15,3 @@
 - 📫 Contact me: Discord: Zack21_
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: Code is a bit like pancake batter: one day, everything seems to go wrong, and the next day, like magic, everything works perfectly! (The opposite is unfortunately also true 😅)
-
-## Asset
-![Certificat Java](./assets/Java-certificat-intro.jpg)
